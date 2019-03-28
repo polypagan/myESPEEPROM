@@ -1,5 +1,7 @@
 # myESPEEPROM
-Wrappers for EEPROM Library
+Wrappers for EEPROM Library developed for ESP8266 & ESP32.
+
+Uses Arduino libraries, while enhancing interface to simply checksumming.
 
 This handles EEPROM reads, writes, updates they way I like to do it.
 
